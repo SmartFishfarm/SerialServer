@@ -1,0 +1,9 @@
+[client]
+host = ''
+port = 3306
+user = ''
+password = ''
+db = 'appdb'
+mincached = 10
+maxcached = 100
+charset = 'utf8'
